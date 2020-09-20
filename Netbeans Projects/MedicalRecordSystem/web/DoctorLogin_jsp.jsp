@@ -1,7 +1,7 @@
 <%-- 
     Document   : doctor_jsp
     Created on : Oct 30, 2018, 11:20:54 PM
-    Author     : castiel
+    Author     : bodige
 --%>
 
 <%@page import="javax.swing.JOptionPane"%>
