@@ -1,7 +1,7 @@
 <%-- 
     Document   : Schedule_jsp
     Created on : Nov 9, 2018, 4:26:18 PM
-    Author     : bodig
+    Author     : bodige
 --%>
 
 <%@page import="javax.swing.JOptionPane"%>
