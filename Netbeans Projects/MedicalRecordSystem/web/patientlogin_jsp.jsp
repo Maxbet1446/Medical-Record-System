@@ -1,7 +1,7 @@
 <%-- 
     Document   : patientlogin_jsp
     Created on : Oct 30, 2018, 11:21:06 PM
-    Author     : castiel
+    Author     : bodige
 --%>
 
 <%@page import="javax.swing.JOptionPane"%>
