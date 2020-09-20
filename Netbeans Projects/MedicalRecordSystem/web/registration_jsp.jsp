@@ -1,7 +1,7 @@
 <%-- 
     Document   : registration_jsp
     Created on : Oct 30, 2018, 11:29:00 PM
-    Author     : castiel
+    Author     : bodige
 --%>
 
 <%@page import="javax.swing.JOptionPane"%>
